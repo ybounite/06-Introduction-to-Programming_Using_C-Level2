@@ -13,7 +13,7 @@ int main()
 
     int *p = &a;
 
-    cout << "Pointer Value : " << p << endl;
+    cout << "Pointer Value to print adress : " << p << endl;
     cout << "print Value of Pointer : " << *p;
     cout << endl;
 }
