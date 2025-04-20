@@ -1,0 +1,23 @@
+        RAM : Memory
+|---------------------------|
+|          Heap             | ← Dynamic Memory
+|  - Objects                |    (e.g., new, malloc)
+|  - Arrays (dynamic)       |
+|  - Anything manually      |
+|    allocated at runtime   |
+|    (grows upwards ↑)      |
+|---------------------------|
+|          Stack            | ← Function calls & local vars
+|  - Function frames        |    (grows downwards ↓)
+|  - Local variables        |
+|  - Pointers               |
+|  - Return addresses       |
+|---------------------------|
+|   Static / Global Data    | ← Predefined variables
+|  - Global variables       |
+|  - Static variables       |
+|---------------------------|
+|  Source Code / Text       | ← Program instructions (read-only)
+|  - Binary code            |
+|  - Functions              |
+|---------------------------|
