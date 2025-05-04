@@ -6,7 +6,7 @@ using namespace std;
 
 
 /*Exceptions provide a way to react to exceptional circumstances (like runtime errors)
- in programs by transferring control to special functions called handlers.*/'
+ in programs by transferring control to special functions called handlers.*/
 
 int main()
 {
