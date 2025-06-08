@@ -1,0 +1,28 @@
+hello world
+yassin
+Shadi
+Lama
+Hamza
+yassin
+Shadi
+Lama
+Omar
+Hamza
+@ybounite ➜ /workspaces/06-Introduction-to-Programming_Using_C-Level2/Files (main) $ c++ Files_DeleteRecordFromFile.cpp  -o run
+@ybounite ➜ /workspaces/06-Introduction-to-Programming_Using_C-Level2/Files (main) $ ./run 
+yassin
+Shadi
+Lama
+Hamza
+yassin
+Shadi
+Lama
+Hamza
+Omar
+@ybounite ➜ /workspaces/06-Introduction-to-Programming_Using_C-Level2/Files (main) $ c++ Files_DeleteRecordFromFile.cpp  -o run
+@ybounite ➜ /workspaces/06-Introduction-to-Programming_Using_C-Level2/Files (main) $ ./run 
+yassin
+Shadi
+Lama
+Hamza
+Omar
